@@ -20,7 +20,7 @@ Create a single webpage with a QR code generator using HTML and traditional CSS.
 
 ### Screenshot
 
-![My webpage image](./screenshot.jpg)
+![My webpage image](./screenshot.jpeg)
 
 ### Links
 
