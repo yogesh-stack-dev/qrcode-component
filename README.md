@@ -24,7 +24,7 @@ Create a single webpage with a QR code generator using HTML and traditional CSS.
 
 ### Links
 
-- Solution URL: [solution URL here](https://qrcode-component-ashen.vercel.app/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-page-using-css-flex-6p8IAMnqJS)
 - Live Site URL: [live site URL here](https://qrcode-component-ashen.vercel.app/)
 
 ## My process
